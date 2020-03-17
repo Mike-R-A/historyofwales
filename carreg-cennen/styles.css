@@ -1,0 +1,28 @@
+h1 {
+    color: crimson;
+    text-align: center;
+    padding: 100px 0px 100px 0px;
+}
+
+h2 {
+    color: crimson;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.card {
+    background-color: rgb(248, 248, 248);
+    border: none;
+}
+
+.card-header {
+    border: none;
+    background-color: transparent;
+    text-align: center;
+    font-weight: bold;
+}
+
+.lead {
+    text-align: center;
+    margin-bottom: 50px;
+}
