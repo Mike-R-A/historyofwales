@@ -43,3 +43,7 @@ h2 {
 .navbar-brand:hover {
     color: crimson;
 }
+
+.list-group-item {
+    border-color: darkgreen;
+}
