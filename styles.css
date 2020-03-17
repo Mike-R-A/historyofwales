@@ -1,5 +1,5 @@
 header {
-    padding: 100px 0px 100px 0px;
+    padding: 150px 0px 150px 0px;
 }
 
 h1 {
@@ -27,4 +27,8 @@ h2 {
 
 .lead {
     text-align: center;
+}
+
+.navbar {
+    background-color: #004d00;
 }
