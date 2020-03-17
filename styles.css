@@ -1,5 +1,5 @@
 header {
-    padding: 150px 0px 150px 0px;
+    padding: 150px 0px 50px 0px;
 }
 
 h1 {
@@ -30,5 +30,16 @@ h2 {
 }
 
 .navbar {
-    background-color: #004d00;
+    color: crimson;
+    /* background-color: #004d00; */
+    border-bottom: 1px solid darkgreen;
+    /* background-color: crimson; */
+}
+
+.navbar-brand {
+    color: crimson;
+}
+
+.navbar-brand:hover {
+    color: crimson;
 }
